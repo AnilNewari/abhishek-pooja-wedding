@@ -9461,6 +9461,12 @@ a.text-dark:hover, a.text-dark:focus {
   height: 40px;
 }
 
+.btn-direction{
+  width: fit-content;
+  height: 40px;
+
+}
+
 .btn-sm-square {
   width: 32px;
   height: 32px;
